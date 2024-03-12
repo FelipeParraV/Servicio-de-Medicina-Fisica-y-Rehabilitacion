@@ -20,4 +20,5 @@ Este proyecto consiste en el desarrollo de una aplicación destinada a realizar 
 * **Sistema Operativo:** Esta aplicación solo funciona en dispositivos con Android 9 o superior.
 * **Conexión a Internet:** No es necesaria para el funcionamiento básico de la aplicación.
 # Instalación
-	* Clona el repositorio: git clone https://github.com/tuusuario/test-capacidad-motriz.git
+Clonar el repositorio:
+```git clone https://github.com/tuusuario/test-capacidad-motriz.git```
