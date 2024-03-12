@@ -21,5 +21,7 @@ Este proyecto consiste en el desarrollo de una aplicación destinada a realizar 
 * **Conexión a Internet:** No es necesaria para el funcionamiento básico de la aplicación.
 # Instalación
 Clonar el repositorio:
-```git clone https://github.com/tuusuario/test-capacidad-motriz.git```
-Abrir desde el ambiente de desarrollo Android Studios
+```
+git clone https://github.com/tuusuario/test-capacidad-motriz.git
+```
+Se debe abrir desde el ambiente de desarrollo Android Studios
