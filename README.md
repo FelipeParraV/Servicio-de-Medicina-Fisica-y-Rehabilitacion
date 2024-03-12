@@ -24,4 +24,4 @@ Clonar el repositorio:
 ```
 git clone https://github.com/FelipeParraV/Servicio-de-Medicina-Fisica-y-Rehabilitacion.git
 ```
-Se debe abrir desde el ambiente de desarrollo Android Studios
+Se debe abrir desde el ambiente de desarrollo Android Studio
