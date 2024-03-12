@@ -22,3 +22,4 @@ Este proyecto consiste en el desarrollo de una aplicación destinada a realizar 
 # Instalación
 Clonar el repositorio:
 ```git clone https://github.com/tuusuario/test-capacidad-motriz.git```
+Abrir desde el ambiente de desarrollo Android Studios
