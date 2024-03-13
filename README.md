@@ -1,5 +1,5 @@
 # Servicio de Medicina Física y Rehabilitación
-Este proyecto consiste en el desarrollo de una aplicación destinada a realizar pruebas de capacidad motriz para pacientes con movilidad reducida. El objetivo principal es proporcionar a los profesionales de la salud una herramienta eficiente y fácil de usar para evaluar y monitorear la capacidad motriz de sus pacientes, facilitando así la planificación de tratamientos y la medición del progreso a lo largo del tiempo.
+Este proyecto consiste en el desarrollo de una aplicación de dispositivo móvil destinada a realizar pruebas de capacidad motriz para pacientes con movilidad reducida. El objetivo principal es proporcionar a los profesionales de la salud una herramienta eficiente y fácil de usar para evaluar y monitorear la capacidad motriz de sus pacientes, facilitando así la planificación de tratamientos y la medición del progreso a lo largo del tiempo.
 # Test realizables
 1. Escala de Berg:
 	- Utilizada para evaluar el equilibrio y riesgo de caídas en adultos mayores.
